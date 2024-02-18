@@ -15,3 +15,5 @@ El NHANES es un programa de estudios diseñados para evaluar el estado nutricion
 Para utilizar estos archivos no se necesita hacer ninguna instalación, estos archivos pueden ser abiertos por Google Colab (en Google Drive). Cualquiera con una cuenta de Google puede usarlo, abrir un cuaderno es tan simple como abrir un Documento de Google.
 
 Google Colab es parte de tu cuenta gratuita de Google, como Google Docs. Simplemente ingresa a tu cuenta de Google y ve a [https://research.colab.com](https://research.colab.com/). Click en BIENVENIDO A COLAB y luego en COPIAR A DRIVE y Colab va a estar disponible en tu Google Drive.
+
+Puedes acceder al cuaderno de Juyter [aquí](https://github.com/enrodri/nhanes_2015_2016/blob/main/español_nhanes_2015_2016.ipynb)
