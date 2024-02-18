@@ -1,4 +1,5 @@
 ## National Health and Nutrition Examination Survey (NHANES) 2015-2016
+[![Language English](https://img.shields.io/badge/Lang-EN-blue.svg)](https://github.com/enrodri/nhanes_2015_2016/blob/main/README.md) [![Language Spanish](https://img.shields.io/badge/Lang-ES-red.svg)](https://github.com/enrodri/nhanes_2015_2016/blob/main/README.es.md)
 
 **Skills:** Python, Jupyter Notebooks, Pandas, NumPy, Plotly, Seaborn, SciPy, Statsmodels
 
