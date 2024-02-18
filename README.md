@@ -15,3 +15,5 @@ The NHANES is a study program designed to assess the nutritional status of adult
 No installation is required to use these files; they can be opened in Google Colab (on Google Drive). Anyone with a Google account can use it, opening a notebook is as simple as opening a Google Document.
 
 Google Colab is part of your free Google account, like Google Docs. Simply log in to your Google account and go to [https://research.colab.com](https://research.colab.com/) Click on WELCOME TO COLABORATORY and then on COPY TO DRIVE, and Colab will be available in your Google Drive.
+
+You can access the Jupyter notebook [here](https://github.com/enrodri/nhanes_2015_2016/blob/main/english_2015_2016.ipynb)
