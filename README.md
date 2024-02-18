@@ -4,7 +4,7 @@
 
 The NHANES is a study program designed to assess the nutritional status of adults and children in the United States, conducted annually. NHANES interviews include demographic, socioeconomic, dietary, and health-related questions. In this Jupyter notebook, we will analyze data collected from a national sample of individuals during the 2015-2016 cycle.
 
-## Statistical analyses performed include:
+## Statistical analyses performed:
 * Descriptive statistics (mean, median, minimum, maximum, quartiles)
 * Stratified proportions by gender and ethnic origin
 * Histograms and box plots
