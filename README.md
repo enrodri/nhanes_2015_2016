@@ -16,4 +16,4 @@ No installation is required to use these files; they can be opened in Google Col
 
 Google Colab is part of your free Google account, like Google Docs. Simply log in to your Google account and go to [https://research.colab.com](https://research.colab.com/) Click on WELCOME TO COLABORATORY and then on COPY TO DRIVE, and Colab will be available in your Google Drive.
 
-[Access the Jupyter notebook](https://github.com/enrodri/nhanes_2015_2016/blob/main/english_2015_2016.ipynb)
+[Open the Jupyter notebook](https://github.com/enrodri/nhanes_2015_2016/blob/main/english_2015_2016.ipynb)
