@@ -16,4 +16,4 @@ Para utilizar estos archivos no se necesita hacer ninguna instalación, estos ar
 
 Google Colab es parte de tu cuenta gratuita de Google, como Google Docs. Simplemente ingresa a tu cuenta de Google y ve a [https://research.colab.com](https://research.colab.com/). Click en BIENVENIDO A COLAB y luego en COPIAR A DRIVE y Colab va a estar disponible en tu Google Drive.
 
-Puedes acceder al cuaderno de Juyter [aquí](https://github.com/enrodri/nhanes_2015_2016/blob/main/español_nhanes_2015_2016.ipynb)
+Puedes acceder al cuaderno de Jupyter [aquí](https://github.com/enrodri/nhanes_2015_2016/blob/main/español_nhanes_2015_2016.ipynb)
